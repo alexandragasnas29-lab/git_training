@@ -1,1 +1,0 @@
-#vrem sa il salvam si stergem dupa cu gitignore
