@@ -3,3 +3,4 @@
 .RData
 .Ruserdata
 credentials.r
+commit_ignore.R
